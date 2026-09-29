@@ -1,3 +1,4 @@
+cd "C:\Users\super\My cool Piano"
 git add .
 git commit -m "Describe what you changed"
 git push
